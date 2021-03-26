@@ -1,4 +1,5 @@
-# "Thank you DkKoba for the idea"
+# suffix vs scientific war is stupid. Just use Blind notation :colbert:
+
 translation_dict = {
      "Million": 2,
      "Billion": 3,
@@ -102,4 +103,3 @@ translation_dict = {
      "CENTILLION": 101,
      "SUPERCENTILLION": 102,
 }
-
